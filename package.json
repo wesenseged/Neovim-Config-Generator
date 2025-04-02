@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "scripts": {
+    "start": "node index.js"
+    },
+    "dependencies": {
+        "@clack/prompts": "^0.9.1",
+        "@google/generative-ai": "^0.24.0",
+        "@types/node": "^22.10.7",
+        "chalk": "^5.4.1",
+        "dotenv": "^16.4.7"
+    }
+}
