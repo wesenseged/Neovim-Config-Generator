@@ -2,7 +2,7 @@
 
 This project is a simple terminal prompt that asks the user a couple of questions like which plugins to install, Treesitter servers, and color schemes. Based on the user's input, it generates a full configuration file.
 
-![Demo Video](https://github.com/wesenseged/nvim/blob/assets/.assets/untitled.mp4)
+![Demo Video](https://github.com/wesenseged/Neovim-Config-Generator/blob/assets/.assets/untitled.mp4)
 
 ## Dependencies
 
